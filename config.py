@@ -1,0 +1,2 @@
+PAIR="XAUUSD"
+TIMEFRAME="15min"
